@@ -1,0 +1,10 @@
+{
+	"name": "jmwhitworth/jw-base",
+	"type": "wordpress-theme",
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "https://composer.jackwhitworth.com"
+		}
+	]
+}
