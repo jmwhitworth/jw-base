@@ -1,5 +1,9 @@
 <?php
 
+if (!defined('JW_VERSION')) {
+    define('JW_VERSION', \wp_get_theme( \get_template() )?->get( 'Version' ) ?? '0.0.0');
+}
+
 if (!defined('JW_DOMAIN')) {
     define('JW_DOMAIN', 'jackwhitworth');
 }
