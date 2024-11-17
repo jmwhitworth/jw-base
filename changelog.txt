@@ -1,3 +1,5 @@
+v0.1.2: Added hooks for removing nags and dequeuing bloat
+
 v0.1.1: Added WordPress updating
 
 v0.1.0: Initial commit

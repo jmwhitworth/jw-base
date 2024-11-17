@@ -18,4 +18,4 @@ function pageTitle(): string
     }
     return \get_the_title();
 }
-\add_shortcode('jackwhitworth_pageTitle', '\jackwhitworth\hooks\pageTitle');
+\add_shortcode('jw_pageTitle', '\jackwhitworth\hooks\pageTitle');
